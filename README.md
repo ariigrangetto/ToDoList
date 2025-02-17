@@ -1,4 +1,4 @@
-The same ToDo.app but in this version i'm ussing React + Vite and Tailwind CSS for simple styles. This was created in Valentine's Day, something you can tell for the hearts. <3
+This is a ToDo app built with React + Vite and styled with Tailwind CSS. With this app you can add new to-dos, cross out or delete completed tasks. All information is stored in localStorage.
 
 ![682shots_so](https://github.com/user-attachments/assets/c1251af8-b677-4b6e-bfe3-e5905c5a289a)
 

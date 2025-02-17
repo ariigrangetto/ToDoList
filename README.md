@@ -1,6 +1,7 @@
 The same ToDo.app but in this version i'm ussing React + Vite and Tailwind CSS for simple styles. This was created in Valentine's Day, something you can tell for the hearts. <3
 
-![860shots_so](https://github.com/user-attachments/assets/e17d4672-f7ca-41ab-9b7e-3b3e5ae39a26)
+![682shots_so](https://github.com/user-attachments/assets/c1251af8-b677-4b6e-bfe3-e5905c5a289a)
+
 
 
 # React + Vite
